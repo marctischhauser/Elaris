@@ -1,4 +1,15 @@
 
+## Founders
+
+Die Spielercharaktere.
+
+---
+
+## Members
+
+
+---
+
 ## Status
 
 Unrecognized Clan
@@ -20,12 +31,6 @@ Noch nicht gewählt.
 ## Sigil
 
 Noch nicht gewählt.
-
----
-
-## Founders
-
-Die Spielercharaktere.
 
 ---
 
