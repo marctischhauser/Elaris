@@ -58,6 +58,7 @@ Keine
 
 ## Allies
 
+Nach Arc 1
 - [[Edric Thornwell]]
 - [[Rowan Hale]]
 - [[Corwin Vale]]

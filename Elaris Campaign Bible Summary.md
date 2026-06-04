@@ -25,11 +25,9 @@ Die Menschen wurden immer mächtiger.
 
 Krieg zwischen der Menschheit und den Sovereigns.
 
-Der Krieg beginnt weil die Sovereigns die Portale schliessen und versiegeln.
+Der Krieg beginnt weil die Sovereigns die Portale schliessen und versiegeln, um den 13. zu verbannen.
 
 Beide Seiten wurden beinahe ausgelöscht.
-
-Viele Sovereigns starben.
 
 Die großen Reiche der Menschheit wurden zerstört.
 
@@ -495,20 +493,13 @@ Session 6:
 
 Noch auszuarbeiten:
 
+- Die 4 Sessions des 1. Arcs
 - Die übrigen 12 Sovereigns
-    
 - Great Kins
-    
 - Erste große Stadt
-    
 - Kontinente
-    
 - Königreiche
-    
 - Das vollständige Gate-Netzwerk
-    
 - Die wahre Geschichte des Dreizehnten
-    
 - The Void
-    
 - Weitere Kampagnen-Arcs
