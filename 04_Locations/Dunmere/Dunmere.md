@@ -1,13 +1,23 @@
-## Überblick
 
-**Dunmere** ist ein kleines Grenzdorf im Westen des Königreichs (den Namen des Reichs legen wir später fest).
+# Dunmere
 
-Es liegt am Rand eines ausgedehnten Nadelwaldes.
-Die Bewohner leben von:
-- Holzfällerei
-- Jagd
-- Pelzhandel
-- etwas Landwirtschaft
+Region: [[Wildreach]]
+
+Dunmere ist ein kleines Dorf nahe der Grenze zwischen Wildreach und Arden.
+
+Die Siedlung dient als Ausgangspunkt der Kampagne.
+
+## Bekannt für
+
+- The Crooked Stag
+- Alte Handelsstraßen
+- Nähe zu [[Feywood]]
+
+## Bevölkerung
+
+Etwa 300 Einwohner.
+
+Die meisten leben von Landwirtschaft, Jagd und Holzhandel.
 
 Die meisten Häuser sind aus dunklem Kiefernholz gebaut.
 Im Winter liegt oft Nebel über den Feldern.

@@ -132,6 +132,14 @@ Die Spieler begegnen ihm nicht direkt, sondern durch:
 
 ---
 
+# Relikte
+
+### Scholar's Board
+Tafel aus material? mit Buchstaben/Runen? darauf. Wird benötigt um Rätsel zu lösen.
+
+- Steintafeln o.Ä. mit Aussparungen die dann Buchstaben wiedergeben
+
+
 ## Related
 
 - [[The Sovereigns]]
