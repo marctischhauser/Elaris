@@ -1,4 +1,3 @@
-# Elaris Campaign Bible Summary
 ## Welt
 
 Die Kampagne spielt in der Welt **Elaris**.
@@ -18,13 +17,15 @@ Sie erschuf:
 - Große Reiche
     
 
-Die Menschen wurden immer mächtiger und erhoben sich schließlich gegen die Sovereigns.
+Die Menschen wurden immer mächtiger.
 
 ---
 
 ### The Divine War
 
 Krieg zwischen der Menschheit und den Sovereigns.
+
+Der Krieg beginnt weil die Sovereigns die Portale schliessen und versiegeln.
 
 Beide Seiten wurden beinahe ausgelöscht.
 
