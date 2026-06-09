@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_World/Regions/Shattered Expanse.md",
+                "file": "05_Campaign/Arc 1 - The Forgotten Gate/1. Session - The Founding.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shattered Expanse"
+              "title": "1. Session - The Founding"
+            }
+          },
+          {
+            "id": "6988fd97eba6c3a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "80_Reference/Skill Checks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Skill Checks"
             }
           }
         ]
@@ -185,8 +199,25 @@
   },
   "active": "98f8d2b8dbcfaded",
   "lastOpenFiles": [
+    "80_Reference/Skill Checks.md",
+    "05_Campaign/Arc 1 - The Forgotten Gate/1. Session - The Founding.md",
+    "TODO.md",
+    "Untitled",
+    "03_Society/Clan System.md",
+    "80_Reference/Time.md",
+    "80_Reference",
+    "02_Factions/The Concord.md",
+    "00_MOCs/Elaris.md",
     "99_Images/worldmap_third.png",
     "99_Images/worldmap_second.png",
+    "02_Factions/The Veiled Throne.md",
+    "02_Factions/The Silent Choir.md",
+    "01_World/Gates/The Gates.md",
+    "99_Images/Worldmap_firstImpression.png",
+    "01_World/History/Age of Reclamation.md",
+    "01_World/History/The Great Silence.md",
+    "01_World/History/Age of Ascension.md",
+    "01_World/Regions/Shattered Expanse.md",
     "99_Images/ChatGPT Image Jun 4, 2026, 09_50_49 PM.png",
     "99_Images/ChatGPT Image Jun 4, 2026, 09_45_41 PM.png",
     "01_World/Regions/Wildreach.md",
@@ -198,31 +229,17 @@
     "04_Locations/Ashgate",
     "01_World/Regions/Ember Isles.md",
     "04_Locations/Whiteport",
-    "01_World/Regions/Shattered Expanse.md",
     "01_World/Regions/Frostmarch.md",
     "01_World/Regions/Skarn.md",
     "01_World/Regions/Arden.md",
-    "02_Factions/The Concord.md",
     "01_World/Regions/The Elderwoods.md",
     "01_World/Regions/The Sovereign Sea.md",
     "01_World/Regions/The Ember Isles.md",
-    "99_Images/Worldmap_firstImpression.png",
     "99_Images/ChatGPT Image Jun 4, 2026, 08_25_06 PM.png",
     "99_Images",
     "New folder",
-    "01_World/Regions/The Shattered Expanse.md",
-    "01_World/Regions/The Frostmarch.md",
-    "01_World/Regions/The Midlands.md",
-    "Elaris Campaign Bible Summary.md",
     "01_World/Regions",
-    "01_World/Untitled.md",
-    "05_Campaign/Arc 1 - The Forgotten Gate/1. Session - The Founding.md",
-    "05_Campaign/Arc 1 - The Forgotten Gate/2. Session - The Watchtower.md",
-    "04_Locations/Dunmere/NPCs/Finn Alder.md",
-    "01_World/Sovereigns/Aurelion, The Scholar.md",
-    "01_World/Sovereigns/The Sovereigns.md",
     "lucy_pfote.png",
-    "05_Campaign/Arc 1 - The Forgotten Gate/Untitled.base",
-    "04_Locations/Dunmere/NPCs/Rowan Hale.md"
+    "05_Campaign/Arc 1 - The Forgotten Gate/Untitled.base"
   ]
 }

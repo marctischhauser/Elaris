@@ -68,6 +68,12 @@ Gelehrte diskutieren bis heute:
 
 Die Concord beantwortet diese Fragen nicht.
 
+
+# Religion
+
+Name offiziell: The Faith
+Im Gebrauch: The Way of the Nine
+
 ---
 
 ## Haltung zu Magie
@@ -240,22 +246,6 @@ Und hoffen, dass es so bleibt.
 
 ---
 
-# The High Synod
-
-Die oberste Führung der Concord.
-
-Traditionell bestehen ihre Reihen aus neun Sitzen.
-
-Warum genau neun, weiß heute niemand.
-
-Der Synod bestimmt:
-
-- Glaubensfragen
-- große politische Entscheidungen
-- die Ausrichtung der Concord
-
----
-
 # Beziehungen
 
 ## The Arcanum
@@ -323,3 +313,46 @@ Die Strahlen symbolisieren:
 > "Die Welt wurde nicht durch Bosheit zerstört.
 >
 > Sondern durch jene, die glaubten, sie wüssten es besser."
+
+
+## The High Synod
+
+Das höchste Führungsgremium der Concord ist der **High Synod**.
+
+Er besteht aus **neun High Priests**, die die bedeutendsten Tempelbezirke und Regionen der bekannten Welt vertreten.
+
+Offiziell führen die neun die Concord gemeinsam. Kein einzelner High Priest besitzt absolute Autorität.
+
+Für die Gläubigen der Faith gilt der High Synod als höchste spirituelle Instanz Elaris'.
+
+---
+
+## Das Verborgene Schisma
+
+Nur wenige kennen die Wahrheit:
+
+Innerhalb des High Synod existiert ein geheimer Zirkel aus vier High Priests.
+
+Diese vier haben durch alte Aufzeichnungen, verbotene Archive und verlorene Berichte erfahren, dass die Geschichte der Divine Nine unvollständig ist.
+
+Sie wissen von der Existenz der Gates und kennen Fragmente einer Wahrheit, die den Grundfesten der Faith widersprechen könnte.
+
+Aus Angst vor den Folgen haben sie beschlossen, dieses Wissen zu verbergen.
+
+Ihr Ziel ist nicht Macht oder Reichtum.
+
+Sie glauben aufrichtig, dass die Faith die bekannte Welt zusammenhält und dass die Enthüllung der Wahrheit Krieg, Chaos und den Zusammenbruch der gesellschaftlichen Ordnung auslösen könnte.
+
+---
+
+## Interner Konflikt
+
+Die übrigen fünf Mitglieder des High Synod kennen dieses Geheimnis nicht.
+
+Sie glauben vollständig an die offiziellen Lehren der Faith und würden die Existenz eines solchen Zirkels als Verrat betrachten.
+
+Dadurch ist die Concord nicht geeint.
+
+Unter ihrer ruhigen Oberfläche wächst ein Konflikt, der eines Tages die gesamte Institution spalten könnte.
+
+Sollte die Wahrheit über die Gates ans Licht kommen, könnte dies nicht nur die Faith erschüttern, sondern auch den High Synod selbst in zwei Lager zerbrechen lassen.

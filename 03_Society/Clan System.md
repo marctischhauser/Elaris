@@ -1,6 +1,6 @@
 # Clan System
 
-In [[Elaris]] kann praktisch jede Gruppe von Personen einen Clan gründen.
+In [[Elaris]] kann praktisch jede Gruppe von Personen einen Clan gründen, aber braucht einen Grund.
 
 Ein Clan ist die kleinste offiziell anerkannte Organisation der Gesellschaft.
 
